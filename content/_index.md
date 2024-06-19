@@ -42,9 +42,9 @@ sections:
       title: Biography
      
       username: admin
-  - block: publications
+  - block: skills
     content:
-      title: Publications
+      title: skills
       text: ''
       
       username: admin
