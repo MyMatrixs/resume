@@ -156,7 +156,7 @@ sections:
       columns: '2' # 两列
 
   - block: markdown
-    content:markdown
+    content:
       title: Gallery
       subtitle: ''
       text: |-
