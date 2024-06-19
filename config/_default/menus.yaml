@@ -10,6 +10,9 @@ main:
   - name: Posts
     url: '#posts'
     weight: 20
+  - name: Honors & Awards
+    url: '#Honors&Awards'
+    weight: 30
   - name: Talks
     url: '#talks'
     weight: 40
