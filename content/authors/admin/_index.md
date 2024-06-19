@@ -1,23 +1,23 @@
 ---
 # Display name
-title: Xinxin Zhou, PhD
+title: Xinxin Zhou
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Xinxin Zhou
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Xinxin
+last_name: Zhou
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. in Cartography and Geographic Information Systems
 
 # Organizations/Affiliations to show in About widget
 organizations:
