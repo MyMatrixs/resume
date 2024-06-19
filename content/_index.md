@@ -42,9 +42,9 @@ sections:
       title: Biography
      
       username: admin
-  - block: skills
+  - block: publications
     content:
-      title: Skills
+      title: Publications
       text: ''
       
       username: admin
@@ -130,14 +130,14 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
+      title: Recent Posts # 标题
+      subtitle: '' # 副标题
+      text: '' 
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 5  # 显示的数量
       # Filter on criteria
-      filters:
-        folders:
+      filters:   # 筛选
+        folders: # 从post文件夹选取
           - post
         author: ""
         category: ""
@@ -153,7 +153,7 @@ sections:
     design:
       # Choose a layout view
       view: compact
-      columns: '2'
+      columns: '2' # 两列
   - block: portfolio
     id: projects
     content:
@@ -203,10 +203,7 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      text:
       filters:
         folders:
           - publication
