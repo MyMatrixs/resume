@@ -155,9 +155,9 @@ sections:
       view: compact
       columns: '2'
   - block: portfolio
-    id: projects
+    id: Honors & Awards
     content:
-      title: Projects
+      title: Honors & Awards
       filters:
         folders:
           - project
