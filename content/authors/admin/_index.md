@@ -25,25 +25,31 @@ organizations:
     url: https://www.njupt.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My main research interests include geographical quantum computing methods, quantum annealing optimization algorithms, geospatial optimization methods, 3D cadastral models, and urban service facility planning.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Geographical Quantum Computing Methods
+  - Quantum Annealing Optimization Algorithms
+  - Geospatial Optimization Methods
+  - 3D Cadastre Models
+  - Urban Service Facility Planning
+  - Geographic Information Engineering and Applications
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: 讲师-专业
+      institution: Nanjing University of Posts and Telecommunications
+      year: 2020
+    - course: 博士-研究方向
+      institution: Nanjing Normal University
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: 硕士-研究方向
+      institution: Nanjing Normal University
+      year: 2008
+    - course: 学生-专业
+      institution: 本科学校
       year: 2008
 
 # Skills
