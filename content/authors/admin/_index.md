@@ -21,7 +21,7 @@ role: Ph.D. in Cartography and Geographic Information Systems
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Nanjing University of Posts and Telecommunications
+  - name: Nanjing University of Posts and Telecommunications, School of Internet of Things, Department of Geographic Information Science
     url: https://www.njupt.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
@@ -39,18 +39,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Lecturer in Surveying and Mapping Science and Technology
-      institution: Nanjing University of Posts and Telecommunications
-      year: 2022-
-    - course: Doctor of Cartography and Geographic Information Systems
-      institution: Nanjing Normal University
-      year: 2018-2021
-    - course: Master of Cartography and Geographic Information Systems
-      institution: Nanjing Normal University
-      year: 2013-2016
-    - course: Bachelor of Geographic Information Systems
-      institution: NanJing XiaoZhuang University
-      year: 2009-2013
+    - course: Java Programming and Development
+
+    - course:  Spatial Databases
+
+    - course: Spatial Data Collection and Management
+
+    - course: Professional English for GIS
+
 
 
 
