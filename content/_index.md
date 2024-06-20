@@ -162,6 +162,16 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
+  - block: markdown
+    content:
+      title: TextMarkdown
+      subtitle: ''
+      text: |-
+        111111
+        123444
+        **234566**
+    design:
+      columns: '1'
   - block: collection
     id: featured
     content:
