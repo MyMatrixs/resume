@@ -69,7 +69,7 @@ sections:
 
         | No. | Paper Title | Year | Journal or Publisher | Volume (Issue) | Page | Author Rank |
         | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-        | 1 | Integrating geospatial data and street-view imagery to reconstruct large-scale 3D urban building models | 2023 | Transactions in GIS | 52(1) | - | Corr. Author |
+        | 1 | Integrating geospatial data and street-view imagery to reconstruct large-scale 3D urban building models | 2024 | Transactions in GIS | 52(1) | - | Corr. Author |
         | 2 | Sparse Multi-viewshed Analysis for Assisting Video Surveillance Network Location Optimization | 2024 | TCCT Conference | 52(1) | - | 1 |
         | 3 | 面向设施配置空间优化的量子进化算法 | 2023 | 测绘学报 | 52(1) | 142-154 | 1 |
         | 4 | WLTOG: An optimization approach for wild large-range target omnidirectional geolocation based on monocular PTZ camera | 2022 | Transactions in GIS | 26(7) | 2975-3002 | 1 |
