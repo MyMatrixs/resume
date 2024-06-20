@@ -39,18 +39,18 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: 讲师-专业
+    - course: Lecturer in Surveying and Mapping Science and Technology
       institution: Nanjing University of Posts and Telecommunications
-      year: 2020
-    - course: 博士-研究方向
+      year: 2022-
+    - course: Doctor of Cartography and Geographic Information Systems
       institution: Nanjing Normal University
-      year: 2009
-    - course: 硕士-研究方向
+      year: 2018-2021
+    - course: Master of Cartography and Geographic Information Systems
       institution: Nanjing Normal University
-      year: 2008
-    - course: 学生-专业
-      institution: 本科学校
-      year: 2008
+      year: 2013-2016
+    - course: Bachelor of Geographic Information Systems
+      institution: NanJing XiaoZhuang University
+      year: 2009-2013
 
 
 
@@ -59,21 +59,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://s.wanfangdata.com.cn/paper?q=%E4%BD%9C%E8%80%85%3A%22%E5%91%A8%E9%91%AB%E9%91%AB%22%20%E4%BD%9C%E8%80%85%E5%8D%95%E4%BD%8D%3A%20%22%E5%8D%97%E4%BA%AC%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%22
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://gitee.com/njuptGIS
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Xinxin Zhou.docx
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
