@@ -120,8 +120,8 @@ sections:
         country_code: CN
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '32.118463'
-        longitude: '118.937984'  
+        latitude: '32.11499759'
+        longitude: '118.92628051'  
 
     design:
       columns: '2'
