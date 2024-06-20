@@ -60,12 +60,14 @@ sections:
     design:
       columns: '1'
   - block: markdown
-    id: paper
+    id: Publications
     content:
-      title: Paper
+      title: Publications
       subtitle: ''
       text: |-
-        | 序号 | 论文 | 年份 | 学术期刊或出版社名称 | 卷（期） | 页 | 作（著）者名次 |
+        ### Papers
+
+        | No. | Paper Title | Year | Journal or Publisher | Volume (Issue) | Page | Author Rank |
         | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
         | 1 | 面向设施配置空间优化的量子进化算法 | 2023 | 测绘学报 | 52(1) | 142-154 | 1 |
         | 2 | WLTOG: An optimization approach for wild large-range target omnidirectional geolocation based on monocular PTZ camera | 2022 | Transactions in GIS | 26(7) | 2975-3002 | 1 |
@@ -78,14 +80,7 @@ sections:
         | 9 | 基于协同判读机制的养殖蟹塘遥感智能检测方法 | 2022 | 自然资源遥感 | 35(3) | 1-10 | 2 |
         | 10 | 自然资源离散监测图斑无人机航线规划方法研究 | 2022 | 测绘科学 | 47(11) | 121-129 | 2 |
         | 11 | 深度学习网络支持下的农房侵占耕地自动化监测 | 2022 | 测绘通报 | 3 | 47- | 2 |
-    design:
-      columns: '1'
-  - block: markdown
-    id: Publications
-    content:
-      title: Publications
-      subtitle: ''
-      text: |-
+
         ### Invention Patents
 
         | Patent Name                                          | Authorized Patent Number | Year | Authorized Country or Region | My Ranking | Economic Benefit (10,000 CNY) |

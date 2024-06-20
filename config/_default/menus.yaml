@@ -10,9 +10,6 @@ main:
   - name: Honors & Awards
     url: '#awards_and_honors'
     weight: 20
-  - name: Paper
-    url: '#paper'
-    weight: 30
   - name: Publications
     url: '#Publications'
     weight: 40
