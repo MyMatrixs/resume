@@ -7,16 +7,16 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: awards and honors
+  - name: Honors & Awards
     url: '#awards_and_honors'
     weight: 20
-  - name: paper
+  - name: Paper
     url: '#paper'
     weight: 30
   - name: Publications
     url: '#Publications'
     weight: 40
-  - name: project
+  - name: Project
     url: '#project'
     weight: 50
   - name: Contact

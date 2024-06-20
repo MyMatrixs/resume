@@ -46,7 +46,7 @@ sections:
   - block: markdown
     id: awards_and_honors
     content:
-      title: TextMarkdown
+      title: Honors & Awards
       subtitle: ''
       text: |-
         111111
@@ -57,7 +57,7 @@ sections:
   - block: markdown
     id: paper
     content:
-      title: TextMarkdown
+      title: Paper
       subtitle: ''
       text: |-
         111111
@@ -68,7 +68,7 @@ sections:
   - block: markdown
     id: Publications
     content:
-      title: TextMarkdown
+      title: Publications
       subtitle: ''
       text: |-
         111111
@@ -79,7 +79,7 @@ sections:
   - block: markdown
     id: project
     content:
-      title: TextMarkdown
+      title: Project
       subtitle: ''
       text: |-
         111111
