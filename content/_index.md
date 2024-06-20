@@ -64,9 +64,10 @@ sections:
       title: Paper
       subtitle: ''
       text: |-
-        111111
-        123444
-        **234566**
+        | 序号 | 论文 | 年份 | 学术期刊或出版社名称 | 卷（期） | 页 | 作（著）者名次 |
+        | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+        | 1 | 面向设施配置空间优化的量子进化算法 | 2023 | 测绘学报 | 52(1) | 142-154 | 1 |
+        | 2 | WLTOG: An optimization approach for wild large-range target omnidirectional geolocation based on monocular PTZ camera | 2022 | Transactions in GIS | 26(7) | 2975-3002 | 1 |
     design:
       columns: '1'
   - block: markdown
