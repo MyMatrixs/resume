@@ -2,9 +2,6 @@
 # Display name
 title: Xinxin Zhou
 
-# Name pronunciation (optional)
-name_pronunciation: Xinxin Zhou
-
 # Full name (for SEO)
 first_name: Xinxin
 last_name: Zhou
