@@ -69,6 +69,15 @@ sections:
         | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
         | 1 | 面向设施配置空间优化的量子进化算法 | 2023 | 测绘学报 | 52(1) | 142-154 | 1 |
         | 2 | WLTOG: An optimization approach for wild large-range target omnidirectional geolocation based on monocular PTZ camera | 2022 | Transactions in GIS | 26(7) | 2975-3002 | 1 |
+        | 3 | 城市服务设施空间动态配置模型与量子优化方法 | 2023 | 测绘学报 | 52(2) | 344-344 | 1 |
+        | 4 | Measuring spatiotemporal accessibility to healthcare with multimodal transport modes in the dynamic traffic environment | 2023 | Open Geosciences | 15(1) | - | 1 |
+        | 5 | Spatiotemporal Data-Driven Multiperiod Relocation Optimization of Emergency Medical Services: Maximum Equality Objective | 2023 | ISPRS International Journal of Geo-Information | 12(7) | 269- | 1 |
+        | 6 | 融合敏捷理念的“SPOC+MOOC”高互动性JAVA程序设计教学 | 2023 | 计算机教育 | 08 | 106-111 | 1 |
+        | 7 | Geovisualization: an optimization algorithm of viewpoint generation for 3D cadastral property units | 2023 | Journal of Geographical Systems | 26(1) | 91-116 | 2 |
+        | 8 | ICD: VHR-Oriented Interactive Change-Detection Algorithm | 2022 | ISPRS International Journal of Geo-Information | 11(10) | 503- | 2 |
+        | 9 | 基于协同判读机制的养殖蟹塘遥感智能检测方法 | 2022 | 自然资源遥感 | 35(3) | 1-10 | 2 |
+        | 10 | 自然资源离散监测图斑无人机航线规划方法研究 | 2022 | 测绘科学 | 47(11) | 121-129 | 2 |
+        | 11 | 深度学习网络支持下的农房侵占耕地自动化监测 | 2022 | 测绘通报 | 3 | 47- | 2 |
     design:
       columns: '1'
   - block: markdown
