@@ -49,13 +49,14 @@ sections:
       title: Honors & Awards
       subtitle: ''
       text: |-
-        | 获奖项目名称                                     | 奖励类别、等级              | 授予单位                  | 获奖时间 | 本人排名 |
-        | ------------------------------------------------ | --------------------------- | ------------------------- | -------- | -------- |
-        | 城市级国土空间基础信息平台关键技术研究与应用     | 地理信息科技进步奖一等奖   | 中国地理信息产业协会      | 2022     | 5        |
-        | 基于5G的无人机自然资源智能感知监测管理平台建设和应用 | 科学技术奖一等奖           | 江苏省土地学会            | 2022     | 4        |
-        | 自然资源监测监管智能化综合服务平台关键技术研究与应用 | 科技进步奖二等奖           | 江苏省测绘地理信息学会    | 2022     | 6        |
-        | “空天地”一体化自然资源智能感知产品解决方案        | 科学技术奖                 | 江苏省人工智能学会        | 2021     | 3        |
-        | 第八届土耳其国际发明博览会（ISIF23）金奖           | 土耳其国际发明博览会金奖   | 土耳其专利商标局          | 2023     | 3        |
+        | Award-Winning Project Name                                   | Award Category and Level     | Awarding Organization        | Award Year | My Ranking |
+        |--------------------------------------------------------------|------------------------------|------------------------------|------------|------------|
+        | Research and Application of Key Technologies for Urban Land Spatial Basic Information Platform | First Prize in Geospatial Science and Technology Progress | China Association for Geospatial Information Society | 2022       | 5          |
+        | Construction and Application of Intelligent Perception and Monitoring Management Platform for Natural Resources Based on 5G UAVs | First Prize in Science and Technology | Jiangsu Provincial Land Society | 2022       | 4          |
+        | Research and Application of Key Technologies for Intelligent Comprehensive Service Platform for Natural Resources Monitoring and Supervision | Second Prize in Science and Technology Progress | Jiangsu Society of Surveying, Mapping, and Geoinformation | 2022       | 6          |
+        | "Sky-Ground Integrated" Intelligent Perception Product Solutions for Natural Resources | Science and Technology Award | Jiangsu Artificial Intelligence Society | 2021       | 3          |
+        | Gold Medal at the 8th Turkish International Invention Fair (ISIF23) | Gold Medal at Turkish International Invention Fair | Turkish Patent and Trademark Office | 2023       | 3          |
+
     design:
       columns: '1'
   - block: markdown
@@ -85,12 +86,13 @@ sections:
       title: Publications
       subtitle: ''
       text: |-
-        ### 发明专利
+        ### Invention Patents
 
-        | 专利名称                                   | 授权专利号     | 年份 | 授权国家或地区 | 本人排名 | 经济效益（万元） |
-        |--------------------------------------------|----------------|------|----------------|----------|------------------|
-        | 基于自闭合正交多边形的遥感建筑物样本快速采集方法 | CN 116912446 B | 2023 | 中国           | 1        | 0                |
-        | 一种基于视觉传感网络的空间组合选址方法       | CN 116894400 B | 2023 | 中国           | 1        | 0                |
+        | Patent Name                                          | Authorized Patent Number | Year | Authorized Country or Region | My Ranking | Economic Benefit (10,000 CNY) |
+        |------------------------------------------------------|--------------------------|------|-----------------------------|------------|------------------------------|
+        | Rapid Collection Method for Remote Sensing Building Samples Based on Self-Closing Orthogonal Polygons | CN 116912446 B           | 2023 | China                       | 1          | 0                            |
+        | Spatial Combination Site Selection Method Based on Visual Sensor Network | CN 116894400 B           | 2023 | China                       | 1          | 0                            |
+
     design:
       columns: '1'
   - block: markdown
@@ -99,14 +101,13 @@ sections:
       title: Project
       subtitle: ''
       text: |-
-        | 项目名称                                                 | 经费（万元） | 合同开始时间 | 合同截止时间 | 本人排名 | 项目来源                                       |
-        |----------------------------------------------------------|--------------|--------------|--------------|----------|------------------------------------------------|
-        | 地理时空约束下服务设施动态配置问题的量子退火优化方法研究 | 30           | 2023-01      | 2025-12      | 1        | 国家自然科学基金青年科学基金                   |
-        | 多源协同地理智能感知与监测技术开发                       | 30           | 2022-06      | 2023-12      | 1        | 江苏省产学研揭榜挂帅项目                       |
-        | 移动数据驱动下服务设施空间配置量子优化算法研究           | 5            | 2021-05      | 2022-12      | 1        | 虚拟地理环境教育部重点实验室开发基金项目     |
-        | 服务设施动态配置模型及其量子退火优化方法研究             | 3            | 2022-07      | 2024-06      | 1        | 江苏省高等学校基础科学（自然科学）研究面上项目 |
-        | 基于 SCRUM/MOOC/SPOC 的《JAVA 程序设计》教学方法研究    | 0.3          | 2022-12      | 2023-12      | 1        | 南京邮电大学校级教改项目                       |
-
+        | Project Name                                                 | Funding (10,000 CNY) | Contract Start Date | Contract End Date | My Ranking | Project Source                                   |
+        |--------------------------------------------------------------|----------------------|---------------------|-------------------|------------|--------------------------------------------------|
+        | Research on Quantum Annealing Optimization Method for Dynamic Configuration of Service Facilities under Geospatial Constraints | 300,000 CNY          | 2023-01             | 2025-12           | 1          | National Natural Science Foundation of China Youth Science Fund |
+        | Development of Multi-source Collaborative Geographical Intelligent Perception and Monitoring Technology | 300,000 CNY          | 2022-06             | 2023-12           | 1          | Jiangsu Province Industry-University-Research Collaboration Project |
+        | Research on Quantum Optimization Algorithm for Spatial Configuration of Service Facilities Driven by Mobile Data | 50,000 CNY           | 2021-05             | 2022-12           | 1          | Development Fund Project of Key Laboratory of Virtual Geographic Environment, Ministry of Education |
+        | Research on Dynamic Configuration Model of Service Facilities and Its Quantum Annealing Optimization Method | 30,000 CNY           | 2022-07             | 2024-06           | 1          | General Program of Basic Scientific (Natural Science) Research in Higher Education Institutions of Jiangsu Province |
+        | Research on Teaching Methods of "JAVA Programming" Based on SCRUM/MOOC/SPOC | 3,000 CNY            | 2022-12             | 2023-12           | 1          | University-level Teaching Reform Project of Nanjing University of Posts and Telecommunications |
     design:
       columns: '1'
   - block: contact
@@ -115,49 +116,22 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Welcome colleagues, teachers, and students to contact me.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: zhouxinxin@njupt.edu.cn
+      phone: 177 6813 9367
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        street: No. 9, Wenyuan Road
+        city: Nanjing
+        region: Qixia District
+        postcode: '210000'
+        country: China
+        country_code: CN
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+        latitude: '32.118463'
+        longitude: '118.937984'  
+
     design:
       columns: '2'
 ---
